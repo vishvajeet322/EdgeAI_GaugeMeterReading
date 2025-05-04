@@ -8,4 +8,5 @@
 
 ## Data Collection 
 
-- We collect the dataset, and train yolov5 and nanodent for object detection
+- We collect the dataset, and train yolov5 and nanodent for object detection. 
+- FOMO (efficient object detection) MobileNetV2 0.35 was trained on edgeimpuse 
