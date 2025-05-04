@@ -4,6 +4,7 @@
 
 - Yolov5
 - Nanodet
+- FOMO (efficient object detection) MobileNetV2 0.35 
 
 ## Data Collection 
 
