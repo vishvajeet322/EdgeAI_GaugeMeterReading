@@ -1,0 +1,6 @@
+background
+centre
+max
+meter
+min
+pointer
